@@ -1,7 +1,7 @@
 ### Hello!!!
 
 
-Getting back into programming after a very long hiatus (technically I deleted everything but yanno).
+Getting back into programming after a very long hiatus (technically I deleted everything but yanno). Ready to learn and improve!
 
 ## Working myself up!
 
