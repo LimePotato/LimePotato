@@ -1,4 +1,4 @@
-### Howdy! I go bye Luna-Nelle.
+### Howdy! I go by Luna-Nelle.
 
 Getting back into programming after a very long hiatus (technically I deleted everything but yanno). Ready to learn and improve! 
 
