@@ -14,4 +14,4 @@ Right now I know there's not much here, and most of it not the greatest, but I'm
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limepotato&count_private=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 
-don't be shy, because I sure am.
+don't be shy, because I sure am. :D
