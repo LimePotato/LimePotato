@@ -7,6 +7,8 @@ I Love everything to do with space, I love science, and I love technology, I've 
 At the moment Im working on refining my skills in web design, re-learning Java, and learning C#. 
 Right now I know there's not much here, and most of it not the greatest, but I'm learning What I can Where I can When I can. And it's really fun!
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8AK43S)
+
 ## Working myself up!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
