@@ -10,10 +10,11 @@ Right now I know there's not much here, and most of it not the greatest, but I'm
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G8AK43S)
 
 ## Working myself up!
+<a href="https://app.daily.dev/LimePotato"><img align='right' src="https://api.daily.dev/devcards/a249adb23e434a128572bc2ae6b809a3.png?r=ttk" width="400" alt="Luna-Nelle's Dev Card"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=limepotato&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) 
 
-<a href="https://app.daily.dev/LimePotato"><img align='right' src="https://api.daily.dev/devcards/a249adb23e434a128572bc2ae6b809a3.png?r=ttk" width="400" alt="Luna-Nelle's Dev Card"/></a>
+
 
 
 don't be shy, because I sure am. :D
