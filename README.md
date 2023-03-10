@@ -1,5 +1,5 @@
 ### Howdy! I go by Luna-Nelle.
-<a href="https://app.daily.dev/LimePotato"><img align='right' src="https://api.daily.dev/devcards/a249adb23e434a128572bc2ae6b809a3.png?r=ttk" width="390" alt="Luna-Nelle's Dev Card"/></a>
+<a href="https://app.daily.dev/LimePotato"><img align='right' src="https://api.daily.dev/devcards/a249adb23e434a128572bc2ae6b809a3.png?r=ttk" width="350" alt="Luna-Nelle's Dev Card"/></a>
 
 Getting back into programming after a very long hiatus (technically I deleted everything but yanno). Ready to learn and improve! 
 
