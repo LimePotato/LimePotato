@@ -1,5 +1,4 @@
 ### Howdy! I go by Luna-Nelle.
-<a href="https://app.daily.dev/LimePotato"><img align='right' src="https://github.com/LimePotato/LimePotato/blob/main/devcard.svg" width="375" alt="Luna-Nelle's Dev Card"/></a>
 
 Getting back into programming after a very long hiatus (technically I deleted everything but yanno). Ready to learn and improve! 
 
