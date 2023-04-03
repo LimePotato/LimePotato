@@ -1,5 +1,7 @@
 ### Howdy! I go by Luna-Nelle.
 
+##Please visit my [Codeberg](https://codeberg.org/LimePotato) & [Gitlab](https://gitlab.com/LimePotato)! I don't use github anymore!
+
 Getting back into programming after a very long hiatus (technically I deleted everything but yanno). Ready to learn and improve! 
 
 I Love everything to do with space, I love science, and I love technology, I've got many ambitions and I plan to see them through.
