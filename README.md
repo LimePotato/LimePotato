@@ -1,6 +1,6 @@
 ### Howdy! I go by Luna-Nelle.
 
-##Please visit my [Codeberg](https://codeberg.org/LimePotato) & [Gitlab](https://gitlab.com/LimePotato)! I don't use github anymore!
+## Please visit my [Codeberg](https://codeberg.org/LimePotato) & [Gitlab](https://gitlab.com/LimePotato)! I don't use github anymore!
 
 Getting back into programming after a very long hiatus (technically I deleted everything but yanno). Ready to learn and improve! 
 
