@@ -1,5 +1,5 @@
 
-## Please visit my [Codeberg](https://codeberg.org/LimePotato) & [Gitlab](https://gitlab.com/LimePotato)! I don't use github anymore!
+## Please visit my [ForgeJo](https:/git.nullafati.xyz/LimePotato)! I don't use github anymore!
 
 ### Howdy! I go by Luna-Nelle.
 
